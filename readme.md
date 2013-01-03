@@ -1,6 +1,12 @@
 ChibiOS/Servo is a small library which allows it to interface standard RC servos to ChibiOS/RT easily.
 
 
+### License ###
+
+This library stands under the BSD license. You can use, modify and share this code in any situations. The only
+restriction is that you always have to keep the original license header.
+
+
 ### HowTo use ###
 
 To use this small library, just add the servo.c and servo.h files to your project.

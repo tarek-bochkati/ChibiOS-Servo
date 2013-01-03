@@ -1,3 +1,11 @@
+/*
+ * ChibiOS/Servo is a small library to easily interface RC servos with ChibiOS/RT.
+ *
+ * BSD licensed
+ *
+ * Author: Joel Bodenmann aka Tectu   <joel@unormal.org>
+ */
+
 #include "ch.h"
 #include "hal.h"
 
